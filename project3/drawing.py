@@ -30,7 +30,6 @@ def drawpic():
 	for angle in range(0, 360, 15):
 		turtle.seth(angle)
 		turtle.circle(50)
-#	time.sleep(0.1)
 
 
 	turtle.penup()
