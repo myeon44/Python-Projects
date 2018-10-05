@@ -1,4 +1,6 @@
 #This project plots populations of tribbles and vampires
+#PROJECT STILL A WORK IN PROGRESS
+
 import matplotlib
 
 def tribble_table(initial_pop, n_days):
